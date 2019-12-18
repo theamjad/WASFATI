@@ -22,8 +22,8 @@ Part 5 : in this part we all worked together to make the project presentation
 
 
 <h2>Download WASFATI application</h2>
-<a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a>
+<h4><a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a></h4>
 
 
 <h2>Download Presentation file</h2>
-<a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a>
+<h4><a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a></h4>
