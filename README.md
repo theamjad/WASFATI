@@ -20,4 +20,10 @@ Part 4 (Abdulaziz) : project report
 
 Part 5 : in this part we all worked together to make the project presentation
 
-<a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">Download WASFATI apk</a>
+
+<h2>Download WASFATI application</h2>
+<a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a>
+
+
+<h2>Download Presentation file</h2>
+<a href="https://drive.google.com/file/d/1YVSzBSAYCnVw_zCkTxlmWHS783-iB0Q-/view?usp=sharing">click here</a>
