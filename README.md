@@ -9,17 +9,17 @@ other users and then they get feedback for it by comments and likes.
 Each recipe can be uploaded with a picture and the steps to prepare it and ingredients needed to make it.
 
 
-<h3>The team effort breakdown: (who did which part)</h2>
+<h3>The team effort breakdown: (who did which part)</h3>
 
-Part 1 (Amjad)    : registration, login and database setup.
+Part 1 : registration and login by Amjad.
 
-Part 2 (Abdullah) : upload recipes and images.
+Part 2 : uploading recipes by Abdullah.
 
-Part 3 (Mohannad)  : retrieve recipes and images with comments and likes
+Part 3 : retrieving recipes, comments and likes by Mohanned
 
-Part 4 (Abdulaziz) : project report
+Part 4 : project report  Abdulaziz
 
-Part 5 : in this part we all worked together to make the project presentation
+Part 5 : project presentation was done by the whole team
 
 
 <h3>WASFATI application</h3>
